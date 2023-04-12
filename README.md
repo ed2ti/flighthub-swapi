@@ -23,8 +23,8 @@ In this simple project, there are some improves that I will do affter:
 
 ## 🚀 Stack
 - [PHP 8.1](https://www.php.net/)
-- [Laravel 9] (https://laravel.com/)
-- [Bootstrap 5] (https://getbootstrap.com/)
+- [Laravel 9](https://laravel.com/)
+- [Bootstrap 5](https://getbootstrap.com/)
 
 ## 🧑‍💻 Usage
 
