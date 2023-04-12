@@ -22,7 +22,7 @@ In this simple project, there are some improves that I will do affter:
 - Search Planet (Find a especific Planet)
 
 ## 🚀 Stack
-- [link](https://www.php.net/)PHP 8.1
+- [PHP 8.1](https://www.php.net/)
 - Laravel 9
 - Bootstrap 5
 
