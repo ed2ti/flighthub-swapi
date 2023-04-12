@@ -32,9 +32,9 @@ In this simple project, there are some improves that I will do affter:
 Simply run the command below, and it should be available at http://localhost/, ready for you to make requests.
 ```
 npm install
-```
 php artisan serve
-```
+
+
 ### Documentation 
 The documentation was generated using [Scribe](https://scribe.knuckles.wtf/), with the app running on localhost, you can access it in http://localhost/docs.
 
