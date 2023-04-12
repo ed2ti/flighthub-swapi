@@ -22,14 +22,14 @@ In this simple project, there are some improves that I will do affter:
 - Search Planet (Find a especific Planet)
 
 ## 🚀 Stack
-- PHP 8.1
-- Laravel 8
+- [link](https://www.php.net/)PHP 8.1
+- Laravel 9
 - Bootstrap 5
 
 ## 🧑‍💻 Usage
 
 ### Running the App
-Simply run the command below, and it should be available at http://localhost/, ready for you to make requests.
+Simply run the command below, and it should be available at http://localhost:[PORT], ready for you to make requests.
 ```
 npm install
 php artisan serve
