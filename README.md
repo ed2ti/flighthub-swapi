@@ -16,19 +16,19 @@ I developed this project to test my technical skills during a job application.
 ### 🔎 Search filters:
 - `name`: The name of the Person
 
-### :watch: Next Steps
+## :watch: Next Steps
 In this simple project, there are some improves that I will do affter:
 - Search StarShips (Find a especific StarShip)
 - Search Planet (Find a especific Planet)
 
-### 🚀 Stack
+## 🚀 Stack
 - PHP 8.1
 - Laravel 8
 - Bootstrap 5
 
-### 🧑‍💻 Usage
+## 🧑‍💻 Usage
 
-# Running the App
+### Running the App
 Simply run the command below, and it should be available at http://localhost/, ready for you to make requests.
 ```
 npm install
