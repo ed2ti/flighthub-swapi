@@ -31,6 +31,7 @@ In this simple project, there are some improves that I will do affter:
 ### Running the App
 Simply run the command below, and it should be available at http://localhost:[PORT], ready for you to make requests.
 ```
+composer install
 npm install
 php artisan serve
 
