@@ -17,8 +17,9 @@ I developed this project to test my technical skills during a job application.
 
 ## :watch: Next Steps
 In this simple project, there are some improves that I will do affter:
-- 
-- 
+- "films": "https://swapi.dev/api/films/",
+- "species": "https://swapi.dev/api/species/",
+- "vehicles": "https://swapi.dev/api/vehicles/"
 
 ## 🚀 Stack
 - [Vue.js](https://vuejs.org/)
