@@ -1,39 +1,24 @@
-#  What is this project?
-It's a Single Page Application (SPA) for getting pieces of information on the https://swapi.dev/ website.
+# my-new-vue-app
 
-On the SWAPI we can find all information about the Star Wars incredible series.  
-
-I developed this project to test my technical skills during a job application.
-
-**Usage** guide can be found down below, keep reading! 🙂 
-
-## Menus:
-- People (List of People)
-- StarShips (List of StarShips)
-- Planets (List of Planets)
-
-### 🔎 Search filters:
-- `name`: The name of the Person
-
-## :watch: Next Steps
-In this simple project, there are some improves that I will do affter:
-- "films": "https://swapi.dev/api/films/",
-- "species": "https://swapi.dev/api/species/",
-- "vehicles": "https://swapi.dev/api/vehicles/"
-
-## 🚀 Stack
-- [Vue.js](https://vuejs.org/)
-- [Vue Router](https://router.vuejs.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
-
-## 🧑‍💻 Usage
-
-### Running the App
-Simply run the command below, and it should be available at http://localhost:[PORT], ready for you to make requests.
+## Project setup
 ```
-git clone https://github.com/ed2ti/flighthub-swapi
-cd flighthub-swapi
-composer install
-npm install
-php artisan serve
+yarn install
+```
 
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
