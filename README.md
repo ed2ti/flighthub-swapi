@@ -31,5 +31,5 @@ In this simple project, there are some improves that I will do affter:
 Simply run the command below, and it should be available at http://localhost:[PORT], ready for you to make requests.
 ```
 git clone https://github.com/ed2ti/flighthub-swapi
-npm install or yarn insatll
-npm run serve ot yarn serve
+npm install or yarn install
+npm run serve or yarn serve
